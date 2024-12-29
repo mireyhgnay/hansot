@@ -1,4 +1,4 @@
-# 🔗 [한솥도시락(Hansot)](https://mireyhgnay.github.io/hansot/)
+# 🔗 [한솥도시락(Hansot) 보러가기 👉](https://mireyhgnay.github.io/hansot/)
 
 ## ✏ 프로젝트 소개
 한솥도시락 홈페이지 클론 코딩한 포트폴리오 사이트입니다.  
